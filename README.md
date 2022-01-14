@@ -1,9 +1,8 @@
-# Hi there 👋, my name is Aleix
+# Hi there 👋, I'm Aleix
 
-
-text
-
-text
+* Data Scientist @ Glovo
+* Competitions Expert @ Kaggle
+* Writer @ Medium
 
 <h3 align="left">My portfolio:</h3>
 https://aleixlopezpascual.github.io/
