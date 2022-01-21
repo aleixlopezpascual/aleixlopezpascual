@@ -14,7 +14,5 @@ https://aleixlopezpascual.github.io/
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aleixlopezpascual&show_icons=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleixlopezpascual&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
 
-![GitHub metrics](https://metrics.lecoq.io/aleixlopezpascual)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aleixlopezpascual&hide_border=true)  
 
