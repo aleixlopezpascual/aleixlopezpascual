@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Aleix
 
-* Data Scientist @ Glovo
+* Senior Data Scientist @ Glovo
 * Competitions Expert @ Kaggle
 * Writer @ Medium
 
